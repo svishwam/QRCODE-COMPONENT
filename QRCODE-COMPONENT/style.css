@@ -1,0 +1,39 @@
+.container {
+    height: 450px;
+    width: 280px;
+    background-color: white;
+    margin-left: 600px;
+    margin-top: 200px;
+    border-radius: 7%;
+}
+body {
+   
+    background-color: hsl(220, 15%, 55%);
+    
+}
+
+.d1 {
+    
+    margin: 10px;
+    justify-content: center;
+    border-radius: 7%;
+    font-size:large;
+    height: 240px;
+    
+    
+}
+.d2 {
+    padding-left: 25px;
+    font-size: 18px; 
+    font-weight: bold;
+    font-family:outfit; 
+    
+    
+}
+.d3 {
+    
+    font-size: 13px; 
+    text-align: center;
+    opacity: 0.7;
+    margin-bottom: 20px;
+}
